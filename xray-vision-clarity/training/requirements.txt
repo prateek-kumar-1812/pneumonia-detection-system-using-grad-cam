@@ -1,0 +1,25 @@
+# Pneumonia Detection Model Training Requirements
+# Install with: pip install -r requirements.txt
+
+# Deep Learning & ML
+tensorflow>=2.13.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+opencv-python>=4.8.0
+
+# Data Processing
+pandas>=2.0.0
+Pillow>=10.0.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Optional: Kaggle API (for dataset download)
+kaggle>=1.5.13
+
+# Optional: Advanced visualization
+seaborn>=0.12.0
+
+# Optional: Notebook support
+jupyter>=1.0.0
+ipython>=8.0.0
